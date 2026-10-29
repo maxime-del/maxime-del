@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Maxime%20Danion&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems,%20Networks%20%26%20Security%20%7C%20SRE%20%2F%20Cloud%20%2F%20DevOps&descAlignY=58&descSize=19&descColor=cbd5e1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Maxime%20Danion&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems,%20Networks%20and%20Security%20%7C%20SRE%20%2F%20Cloud%20%2F%20DevOps&descAlignY=58&descSize=19&descColor=cbd5e1" width="100%"/>
 
 <a href="https://www.linkedin.com/in/maximedanion">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Final-year+Systems%2C+Networks+%26+Security+student+%40+EPITA;Looking+for+a+6-month+SRE+%2F+Infrastructure+internship+(Feb+2027);Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Ansible+%E2%80%A2+Linux+%E2%80%A2+Security"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Final-year+Systems%2C+Networks+and+Security+student+%40+EPITA;Looking+for+a+6-month+SRE+%2F+Infrastructure+internship+(Feb+2027);Kubernetes+%E2%80%A2+Terraform+%E2%80%A2+Ansible+%E2%80%A2+Linux+%E2%80%A2+Security"/>
 </a>
 
 <a href="mailto:danion.maxime12@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38bdf8" /></a>
